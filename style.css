@@ -3,13 +3,12 @@ body {
     font-family: Inter, sans-serif;
 }
 header {
-border: 2px solid black;
 width: 70%;
 height: auto;
 margin: 0 auto;
 text-align: center;
 }
-div {
+header div {
     width: 50%;
     height: auto;
     margin: 0 auto;
