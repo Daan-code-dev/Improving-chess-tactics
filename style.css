@@ -2,7 +2,9 @@ body {
     background-color: rgb(239, 239, 216);
     font-family: Inter, sans-serif;
 }
-
+image {
+    position: absolute;
+}
 header {
 width: 70%;
 height: auto;
