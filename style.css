@@ -2,6 +2,7 @@ body {
     background-color: rgb(239, 239, 216);
     font-family: Inter, sans-serif;
 }
+
 header {
 width: 70%;
 height: auto;
@@ -11,21 +12,23 @@ min-width: 260px;
 max-width: 900px;
 margin-bottom: 5rem;
 }
+
 header div {
     width: 50%;
     height: auto;
     margin: 0 auto;
     min-width: 260px;
 }
+
 h1 {
     font-size: 2.5rem;
     font-weight: bolder;
 }
 p {
-    font-size: 1.4crem;
+    font-size: 1.4rem;
 }
+
 .book {
-    border: 2px solid black;
 width: 75%;
 height: auto;
 min-width: 300px;
