@@ -38,9 +38,9 @@ height: auto;
 min-width: 300px;
 max-width: 1000px;
 margin: 3rem auto;
-background-color: rgb(250 250 238);
+background-color: rgba(245, 245, 235, 1);
 border-radius: 2rem;
 padding: 2rem;
-box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
 }
 
