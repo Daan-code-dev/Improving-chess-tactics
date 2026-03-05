@@ -33,7 +33,7 @@ p {
 }
 
 .book {
-width: 80%;
+width: 75%;
 height: auto;
 min-width: 300px;
 max-width: 1000px;
@@ -46,14 +46,14 @@ box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
 .button {
 margin: 10px auto;
 background-color: rgb(46, 125, 50);
-padding: 5px 20px;
-width: 60%;
+padding: 5px 30px;
+width: 50%;
 border-radius: 10px;
 text-align: center;
 color: white;
 display: block;
 cursor: pointer;
-font-size: 1.2rem;
+font-size: 1.4rem;
 
 }
 
