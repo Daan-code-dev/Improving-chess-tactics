@@ -51,5 +51,7 @@ width: 80%;
 border-radius: 10px;
 text-align: center;
 color: white;
+display: block;
+cursor: pointer;
 }
 
