@@ -19,20 +19,24 @@ margin-bottom: 5rem;
 }
 
 header div {
-    width: 50%;
     height: auto;
     margin: 0 auto;
     min-width: 260px;
+    max-width: 600px;
 }
 
 h1 {
     font-size: 2.5rem;
     font-weight: bolder;
+    
 }
 p {
     font-size: 1.4rem;
 }
-
+h2 {
+font-size: 1.6rem;
+margin-bottom: 1rem;
+}
 .book {
 width: 75%;
 height: auto;
@@ -67,6 +71,7 @@ font-weight: 650;
 transition: background-color 0.2s ease;
 max-width: 200px;
 min-width: 50px;
+text-decoration: none;
 }
 
 .button:hover {
