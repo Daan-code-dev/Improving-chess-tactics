@@ -69,8 +69,8 @@ cursor: pointer;
 font-size: 1.5rem;
 font-weight: 650;
 transition: background-color 0.2s ease;
-max-width: 200px;
-min-width: 50px;
+max-width: 300px;
+min-width: 100px;
 text-decoration: none;
 }
 
