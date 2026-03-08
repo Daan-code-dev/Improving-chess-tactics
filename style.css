@@ -59,7 +59,9 @@ box-shadow: 0 6px 14px rgba(0,0,0,0.08);
     justify-content: space-around;
     flex-wrap: nowrap;
 }
-
+.book-image {
+width: 35%;
+}
 .button {
 margin: 10px auto;
 background-color: rgb(46, 125, 50);
