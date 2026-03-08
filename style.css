@@ -2,8 +2,8 @@ body {
     background-color: #fff;
     font-family: Inter, sans-serif;
 }
-img {
-    
+#logo {
+     width: 20%;
     height: auto;
    max-width: 200px;
    min-width: 100px;
