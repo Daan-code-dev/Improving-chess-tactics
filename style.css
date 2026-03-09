@@ -42,7 +42,7 @@ width: 80%;
 height: auto;
 min-width: 300px;
 max-width: 1000px;
-margin: 3rem auto;
+margin: 3.5rem auto;
 background-color: rgb(245, 245, 235);
 border-radius: 2rem;
 padding: 2rem;
@@ -57,7 +57,7 @@ box-shadow: 0 6px 14px rgba(0,0,0,0.08);
 .book-div {
     display: flex;
     flex-wrap: nowrap;
-    gap: 25px;
+    gap: 35px;
 }
 .book-image {
 width: 25%;
