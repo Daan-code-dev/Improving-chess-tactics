@@ -56,14 +56,14 @@ box-shadow: 0 6px 14px rgba(0,0,0,0.08);
 }
 .book-div {
     display: flex;
-    flex-wrap: nowrap;
-    gap: 8%;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 .book-image {
 width: 25%;
 }
 .button {
-margin: 10px 35% 10px 60%;
+margin: 10px auto;
 background-color: rgb(46, 125, 50);
 padding: 12px 20px;
 width: 50%;
