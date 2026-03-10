@@ -34,8 +34,11 @@ p {
     font-size: 1.4rem;
 }
 h2 {
-font-size: 1.86em;
+font-size: 1.86rem;
 margin-bottom: 2rem;
+}
+h3{
+font-size: 1.55rem;
 }
 .book {
 width: 80%;
